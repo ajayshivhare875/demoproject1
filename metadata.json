@@ -1,0 +1,6 @@
+{
+  "name": "QuickBasket",
+  "description": "Blinkit-style 10-15 minute quick-commerce grocery demo store with Indian grocery essentials, live search, category filtering, and instant cart checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
